@@ -1,1 +1,1 @@
-console.log("dari remote");
+console.log("object");
